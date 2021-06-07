@@ -1,0 +1,8 @@
+Sale price: ETH/BTC 0.024847 amount 10.000000
+Sale price: ETH/USDT 237.130136 amount 10.000000
+Sale price: ETH/USDT 237.223018 amount 10.000000
+Sale price: ETH/USDT 237.223018 amount 8.492398
+Sale price: ETH/USDT 237.223018 amount 1.507602
+Sale price: ETH/USDT 237.223018 amount 8.492398
+Sale price: ETH/USDT 237.223018 amount 1.507602
+Sale price: ETH/USDT 237.084543 amount 10.000000

@@ -1,0 +1,1992 @@
+========= current time ========= 
+2020/06/01 11:57:30.328127
+===== WALLET =====
+BTC : 100.000000
+DOGE : 200000000.000000
+ETH : 2000.000000
+USDT : 500000.000000
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9541.669922
+Current max: 9590.000000
+Up untill now mean: 9565.834961
+Future predicted: 9565.834961
+Placing an ask: BTC/USDT 100.000000 for 9590.000000
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002758
+Up untill now mean: 0.002668
+Future predicted: 0.002668
+Placing an ask: DOGE/USDT 100.000000 for 0.002758
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024826
+Current max: 0.025158
+Up untill now mean: 0.024992
+Future predicted: 0.024992
+Placing an ask: ETH/BTC 100.000000 for 0.025158
+--------
+--------
+Product: ETH/USDT
+Current min: 236.947113
+Current max: 240.000000
+Up untill now mean: 238.473557
+Future predicted: 238.473557
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing ask: BTC/USDT 9590.000000 amount 100.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002758 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025158 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:57:35.334211
+===== WALLET =====
+BTC : 100.000000
+DOGE : 200000000.000000
+ETH : 2000.000000
+USDT : 500000.000000
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9541.099609
+Current max: 9586.092773
+Up untill now mean: 9563.595703
+Future predicted: 9562.619141
+Placing an ask: BTC/USDT 100.000000 for 9586.092773
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024847
+Current max: 0.025265
+Up untill now mean: 0.025056
+Future predicted: 0.025061
+Placing a bid: ETH/BTC 10.000000 for 0.024847
+--------
+--------
+Product: ETH/USDT
+Current min: 237.130142
+Current max: 240.953110
+Up untill now mean: 239.041626
+Future predicted: 239.087372
+Placing a bid: ETH/USDT 10.000000 for 237.130142
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing ask: BTC/USDT 9586.092773 amount 100.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 1
+Sale price: ETH/BTC 0.024847 amount 10.000000
+Matching ETH/USDT
+Sales 1
+Sale price: ETH/USDT 237.130136 amount 10.000000
+========= current time ========= 
+2020/06/01 11:57:40.339453
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2020.000000
+USDT : 497628.698644
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9544.374023
+Current max: 9590.909180
+Up untill now mean: 9567.641602
+Future predicted: 9568.187500
+Placing a bid: BTC/USDT 10.000000 for 9544.374023
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024847
+Current max: 0.025207
+Up untill now mean: 0.025027
+Future predicted: 0.025021
+Placing an ask: ETH/BTC 100.000000 for 0.025207
+--------
+--------
+Product: ETH/USDT
+Current min: 237.293152
+Current max: 240.953110
+Up untill now mean: 239.123138
+Future predicted: 239.180817
+Placing a bid: ETH/USDT 10.000000 for 237.293152
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing bid: BTC/USDT 9544.374023 amount 10.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025207 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing bid: ETH/USDT 237.293152 amount 10.000000
+========= current time ========= 
+2020/06/01 11:57:45.344474
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2020.000000
+USDT : 497628.698644
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9544.374023
+Current max: 9590.498047
+Up untill now mean: 9567.435547
+Future predicted: 9567.792969
+Placing a bid: BTC/USDT 10.000000 for 9544.374023
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024842
+Current max: 0.025181
+Up untill now mean: 0.025012
+Future predicted: 0.025003
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+--------
+--------
+Product: ETH/USDT
+Current min: 237.223022
+Current max: 240.953110
+Up untill now mean: 239.088074
+Future predicted: 239.122559
+Placing a bid: ETH/USDT 10.000000 for 237.223022
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing bid: BTC/USDT 9544.374023 amount 10.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Matching ETH/USDT
+Sales 1
+Sale price: ETH/USDT 237.223018 amount 10.000000
+========= current time ========= 
+2020/06/01 11:57:50.349922
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2030.000000
+USDT : 495256.468461
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9544.374023
+Current max: 9590.000000
+Up untill now mean: 9567.187500
+Future predicted: 9567.423828
+Placing a bid: BTC/USDT 10.000000 for 9544.374023
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024842
+Current max: 0.025161
+Up untill now mean: 0.025002
+Future predicted: 0.024993
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+--------
+--------
+Product: ETH/USDT
+Current min: 237.223022
+Current max: 240.810547
+Up untill now mean: 239.016785
+Future predicted: 239.030121
+Placing a bid: ETH/USDT 10.000000 for 237.223022
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing bid: BTC/USDT 9544.374023 amount 10.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Matching ETH/USDT
+Sales 2
+Sale price: ETH/USDT 237.223018 amount 8.492398
+Sale price: ETH/USDT 237.223018 amount 1.507602
+========= current time ========= 
+2020/06/01 11:57:55.353915
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2040.000000
+USDT : 492884.238279
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9544.040039
+Current max: 9585.000000
+Up untill now mean: 9564.520508
+Future predicted: 9564.273438
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024842
+Current max: 0.025158
+Up untill now mean: 0.025000
+Future predicted: 0.024993
+Placing an ask: ETH/BTC 100.000000 for 0.025158
+--------
+--------
+Product: ETH/USDT
+Current min: 237.223022
+Current max: 240.810547
+Up untill now mean: 239.016785
+Future predicted: 239.027893
+Placing a bid: ETH/USDT 10.000000 for 237.223022
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025158 amount 100.000000
+Matching ETH/USDT
+Sales 2
+Sale price: ETH/USDT 237.223018 amount 8.492398
+Sale price: ETH/USDT 237.223018 amount 1.507602
+========= current time ========= 
+2020/06/01 11:58:00.359004
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9544.374023
+Current max: 9586.092773
+Up untill now mean: 9565.233398
+Future predicted: 9565.123047
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024842
+Current max: 0.025161
+Up untill now mean: 0.025002
+Future predicted: 0.024996
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+--------
+--------
+Product: ETH/USDT
+Current min: 237.115112
+Current max: 240.000000
+Up untill now mean: 238.557556
+Future predicted: 238.501480
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:05.363442
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9539.747070
+Current max: 9581.610352
+Up untill now mean: 9560.678711
+Future predicted: 9560.097656
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024840
+Current max: 0.025197
+Up untill now mean: 0.025018
+Future predicted: 0.025015
+Placing an ask: ETH/BTC 100.000000 for 0.025197
+--------
+--------
+Product: ETH/USDT
+Current min: 237.050964
+Current max: 239.871201
+Up untill now mean: 238.461090
+Future predicted: 238.399963
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025197 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:10.367934
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9540.170898
+Current max: 9586.092773
+Up untill now mean: 9563.131836
+Future predicted: 9562.887695
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024839
+Current max: 0.025197
+Up untill now mean: 0.025018
+Future predicted: 0.025015
+Placing an ask: ETH/BTC 100.000000 for 0.025197
+--------
+--------
+Product: ETH/USDT
+Current min: 237.015427
+Current max: 240.299530
+Up untill now mean: 238.657471
+Future predicted: 238.624954
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025197 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:15.372284
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9540.170898
+Current max: 9581.610352
+Up untill now mean: 9560.890625
+Future predicted: 9560.447266
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024839
+Current max: 0.025180
+Up untill now mean: 0.025010
+Future predicted: 0.025006
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+--------
+--------
+Product: ETH/USDT
+Current min: 236.991714
+Current max: 239.871201
+Up untill now mean: 238.431458
+Future predicted: 238.379593
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:20.377111
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9539.813477
+Current max: 9580.605469
+Up untill now mean: 9560.208984
+Future predicted: 9559.697266
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024836
+Current max: 0.025180
+Up untill now mean: 0.025008
+Future predicted: 0.025004
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+--------
+--------
+Product: ETH/USDT
+Current min: 236.971863
+Current max: 240.660233
+Up untill now mean: 238.816040
+Future predicted: 238.801392
+Placing an ask: ETH/USDT 100.000000 for 240.660233
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.660233 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:25.382024
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9540.170898
+Current max: 9581.610352
+Up untill now mean: 9560.890625
+Future predicted: 9560.447266
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025180
+Up untill now mean: 0.025008
+Future predicted: 0.025006
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.299530
+Up untill now mean: 238.623840
+Future predicted: 238.591156
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:30.386494
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.899414
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025179
+Up untill now mean: 0.025007
+Future predicted: 0.025006
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 239.871201
+Up untill now mean: 238.409683
+Future predicted: 238.355591
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:35.391327
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9590.496094
+Up untill now mean: 9566.324219
+Future predicted: 9566.444336
+Placing a bid: BTC/USDT 10.000000 for 9542.151367
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025181
+Up untill now mean: 0.025008
+Future predicted: 0.025007
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 239.871201
+Up untill now mean: 238.409683
+Future predicted: 238.362717
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing bid: BTC/USDT 9542.151367 amount 10.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:40.395537
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9586.092773
+Up untill now mean: 9564.122070
+Future predicted: 9564.022461
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025181
+Up untill now mean: 0.025008
+Future predicted: 0.025007
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.810547
+Up untill now mean: 238.879349
+Future predicted: 238.879349
+Placing an ask: ETH/USDT 100.000000 for 240.810547
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.810547 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:45.400239
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.899414
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025181
+Up untill now mean: 0.025008
+Future predicted: 0.025007
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.000000
+Up untill now mean: 238.474075
+Future predicted: 238.433548
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:50.409157
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9586.092773
+Up untill now mean: 9564.122070
+Future predicted: 9564.022461
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025181
+Up untill now mean: 0.025008
+Future predicted: 0.025007
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.299530
+Up untill now mean: 238.623840
+Future predicted: 238.598297
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:58:55.413729
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9586.092773
+Up untill now mean: 9564.122070
+Future predicted: 9564.018555
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024835
+Current max: 0.025161
+Up untill now mean: 0.024998
+Future predicted: 0.024996
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.000000
+Up untill now mean: 238.474075
+Future predicted: 238.433548
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:00.419047
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.896484
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024832
+Current max: 0.025161
+Up untill now mean: 0.024997
+Future predicted: 0.024996
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.299530
+Up untill now mean: 238.623840
+Future predicted: 238.598297
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:05.424678
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9586.092773
+Up untill now mean: 9564.122070
+Future predicted: 9564.018555
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024831
+Current max: 0.025180
+Up untill now mean: 0.025006
+Future predicted: 0.025006
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.000000
+Up untill now mean: 238.474075
+Future predicted: 238.433548
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:10.429963
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9586.092773
+Up untill now mean: 9564.122070
+Future predicted: 9564.000977
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.000000
+Up untill now mean: 238.474075
+Future predicted: 238.433548
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:15.435027
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.779297
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.929550
+Current max: 239.802765
+Up untill now mean: 238.366150
+Future predicted: 238.315765
+Placing an ask: ETH/USDT 100.000000 for 239.802765
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 239.802765 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:20.439504
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.779297
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.000000
+Up untill now mean: 238.474075
+Future predicted: 238.434479
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:25.443765
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9541.449219
+Current max: 9587.687500
+Up untill now mean: 9564.568359
+Future predicted: 9564.568359
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.519760
+Up untill now mean: 238.733963
+Future predicted: 238.720352
+Placing an ask: ETH/USDT 100.000000 for 240.519760
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.519760 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:30.448327
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.955078
+Placing a bid: BTC/USDT 10.000000 for 9542.151367
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.948166
+Current max: 240.299530
+Up untill now mean: 238.623840
+Future predicted: 238.613754
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing bid: BTC/USDT 9542.151367 amount 10.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:35.453786
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9587.687500
+Up untill now mean: 9564.919922
+Future predicted: 9564.955078
+Placing a bid: BTC/USDT 10.000000 for 9542.151367
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 237.126999
+Current max: 240.810547
+Up untill now mean: 238.968765
+Future predicted: 238.978638
+Placing a bid: ETH/USDT 10.000000 for 237.126999
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Withdrawing bid: BTC/USDT 9542.151367 amount 10.000000
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing bid: ETH/USDT 237.126999 amount 10.000000
+========= current time ========= 
+2020/06/01 11:59:40.459422
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.151367
+Current max: 9586.092773
+Up untill now mean: 9564.122070
+Future predicted: 9564.077148
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 237.044037
+Current max: 240.299530
+Up untill now mean: 238.671783
+Future predicted: 238.651962
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:45.463747
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9541.297852
+Current max: 9581.610352
+Up untill now mean: 9561.454102
+Future predicted: 9561.150391
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025180
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+--------
+--------
+Product: ETH/USDT
+Current min: 236.925568
+Current max: 239.802765
+Up untill now mean: 238.364166
+Future predicted: 238.313782
+Placing an ask: ETH/USDT 100.000000 for 239.802765
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 239.802765 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:50.468878
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9540.028320
+Current max: 9580.000000
+Up untill now mean: 9560.014648
+Future predicted: 9559.629883
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025179
+Up untill now mean: 0.025005
+Future predicted: 0.025005
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+--------
+--------
+Product: ETH/USDT
+Current min: 236.910934
+Current max: 240.299530
+Up untill now mean: 238.605225
+Future predicted: 238.579681
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Matching ETH/USDT
+Sales 0
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+========= current time ========= 
+2020/06/01 11:59:55.473249
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2050.000000
+USDT : 490512.008097
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9540.124023
+Current max: 9580.000000
+Up untill now mean: 9560.062500
+Future predicted: 9559.682617
+Insufficient funds to place ask BTC/USDT
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+--------
+--------
+Product: ETH/BTC
+Current min: 0.024830
+Current max: 0.025161
+Up untill now mean: 0.024995
+Future predicted: 0.024995
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+--------
+--------
+Product: ETH/USDT
+Current min: 237.084549
+Current max: 240.810547
+Up untill now mean: 238.947540
+Future predicted: 238.956223
+Placing a bid: ETH/USDT 10.000000 for 237.084549
+--------
+========= ============ ========= 
+*** Going to next time frame ***
+Matching BTC/USDT
+Sales 0
+Matching DOGE/BTC
+Sales 0
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Matching DOGE/USDT
+Sales 0
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Matching ETH/BTC
+Sales 0
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Matching ETH/USDT
+Sales 1
+Sale price: ETH/USDT 237.084543 amount 10.000000
+========= current time ========= 
+2020/06/01 12:00:00.478088
+===== WALLET =====
+BTC : 99.751533
+DOGE : 200000000.000000
+ETH : 2060.000000
+USDT : 488141.162672
+
+===== ===== =====
+--------
+Product: BTC/USDT
+Current min: 9542.416016
+Current max: 9586.092773
+Up untill now mean: 9564.254883
+Future predicted: 9564.294922
+Placing a bid: BTC/USDT 10.000000 for 9542.416016
+--------
+--------
+Product: DOGE/BTC
+Current min: 0.000000
+Current max: 0.000001
+Up untill now mean: 0.000001
+Future predicted: 0.000001
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+--------
+--------
+Product: DOGE/USDT
+Current min: 0.002577
+Current max: 0.002760
+Up untill now mean: 0.002669
+Future predicted: 0.002669
+Placing an ask: DOGE/USDT 100.000000 for 0.002760

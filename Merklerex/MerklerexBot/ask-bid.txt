@@ -1,0 +1,275 @@
+Placing an ask: BTC/USDT 100.000000 for 9590.000000
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002758
+Placing an ask: ETH/BTC 100.000000 for 0.025158
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: BTC/USDT 9590.000000 amount 100.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002758 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025158 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Placing an ask: BTC/USDT 100.000000 for 9586.092773
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing a bid: ETH/BTC 10.000000 for 0.024847
+Placing a bid: ETH/USDT 10.000000 for 237.130142
+Withdrawing ask: BTC/USDT 9586.092773 amount 100.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Placing a bid: BTC/USDT 10.000000 for 9544.374023
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025207
+Placing a bid: ETH/USDT 10.000000 for 237.293152
+Withdrawing bid: BTC/USDT 9544.374023 amount 10.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025207 amount 100.000000
+Withdrawing bid: ETH/USDT 237.293152 amount 10.000000
+Placing a bid: BTC/USDT 10.000000 for 9544.374023
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+Placing a bid: ETH/USDT 10.000000 for 237.223022
+Withdrawing bid: BTC/USDT 9544.374023 amount 10.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Placing a bid: BTC/USDT 10.000000 for 9544.374023
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+Placing a bid: ETH/USDT 10.000000 for 237.223022
+Withdrawing bid: BTC/USDT 9544.374023 amount 10.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025158
+Placing a bid: ETH/USDT 10.000000 for 237.223022
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025158 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025197
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025197 amount 100.000000
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025197
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025197 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+Placing an ask: ETH/USDT 100.000000 for 240.660233
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Withdrawing ask: ETH/USDT 240.660233 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+Placing a bid: BTC/USDT 10.000000 for 9542.151367
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+Placing an ask: ETH/USDT 100.000000 for 239.871201
+Withdrawing bid: BTC/USDT 9542.151367 amount 10.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Withdrawing ask: ETH/USDT 239.871201 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+Placing an ask: ETH/USDT 100.000000 for 240.810547
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Withdrawing ask: ETH/USDT 240.810547 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025181
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025181 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 239.802765
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 239.802765 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 240.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 240.000000 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 240.519760
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 240.519760 amount 100.000000
+Placing a bid: BTC/USDT 10.000000 for 9542.151367
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing bid: BTC/USDT 9542.151367 amount 10.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Placing a bid: BTC/USDT 10.000000 for 9542.151367
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing a bid: ETH/USDT 10.000000 for 237.126999
+Withdrawing bid: BTC/USDT 9542.151367 amount 10.000000
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing bid: ETH/USDT 237.126999 amount 10.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025180
+Placing an ask: ETH/USDT 100.000000 for 239.802765
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025180 amount 100.000000
+Withdrawing ask: ETH/USDT 239.802765 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025179
+Placing an ask: ETH/USDT 100.000000 for 240.299530
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025179 amount 100.000000
+Withdrawing ask: ETH/USDT 240.299530 amount 100.000000
+Insufficient funds to place ask BTC/USDT
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
+Placing an ask: ETH/BTC 100.000000 for 0.025161
+Placing a bid: ETH/USDT 10.000000 for 237.084549
+Withdrawing ask: DOGE/BTC 0.000001 amount 100.000000
+Withdrawing ask: DOGE/USDT 0.002760 amount 100.000000
+Withdrawing ask: ETH/BTC 0.025161 amount 100.000000
+Placing a bid: BTC/USDT 10.000000 for 9542.416016
+Placing an ask: DOGE/BTC 100.000000 for 0.000001
+Placing an ask: DOGE/USDT 100.000000 for 0.002760
